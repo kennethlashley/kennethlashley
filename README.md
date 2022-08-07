@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kennethlashley
-- 👀 I’m interested in ... Web Development
+- 👀 I’m interested in ... Web Development and Game Development
 - 🌱 I’m currently learning ... HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on ... Anything you think I could help on.
 - 📫 How to reach me ... lashley.kenneth@gmail.com
